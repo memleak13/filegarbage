@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import os.path
 file = "./dump"
 # 1 KB of garbage ... 
